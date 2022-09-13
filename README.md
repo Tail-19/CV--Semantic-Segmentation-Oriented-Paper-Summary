@@ -23,11 +23,11 @@
 
 **🌟摘要🌟**
 
- [AlexNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/AlexNet_ast.png) 
+ ![AlexNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/AlexNet_ast.png) 
 
 **🌟网络结构🌟**
 
- [AlexNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/AlexNet_full.png) 
+![AlexNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/AlexNet_full.png) 
 
 ### GoogleNet
 
@@ -39,13 +39,13 @@
 
 🌟**摘要**🌟
 
- [GoogleNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogleNet_ast.png) 
+![GoogleNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogleNet_ast.png) 
 
 **🌟网络结构🌟**
 
- [GoogleNet_key.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogleNet_key.png) 
+![GoogleNet_key.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogleNet_key.png) 
 
- [GoogLeNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogLeNet_full.png) 
+![GoogLeNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogLeNet_full.png) 
 
 ### VGGNEt
 
@@ -57,11 +57,11 @@
 
 🌟**摘要**🌟
 
- [VGGNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/VGGNet_ast.png) 
+ ![VGGNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/VGGNet_ast.png) 
 
 **🌟网络结构🌟**
 
- [VGGNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/VGGNet_full.png) 
+![VGGNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/VGGNet_full.png) 
 
 ### ResNet
 
@@ -77,9 +77,9 @@
 
 **🌟网络结构🌟**
 
- [ResNet_key.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/ResNet_key.png) 
+![ResNet_key.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/ResNet_key.png) 
 
- [ResNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/ResNet_full.png) 
+![ResNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/ResNet_full.png) 
 
 ## 语义分割- CNN
 
