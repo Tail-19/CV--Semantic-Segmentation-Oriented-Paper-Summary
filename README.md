@@ -8,7 +8,8 @@
 
 ### AlexNet
 
- [Alexnet.pdf](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/经典CNN/Alexnet.pdf) 
+> 原文： [Alexnet.pdf](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/经典CNN/Alexnet.pdf)
+>
 
 🌟**创新点🌟**
 
@@ -22,13 +23,63 @@
 
 **🌟摘要🌟**
 
-![AlexNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/AlexNet_ast.png)
+ [AlexNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/AlexNet_ast.png) 
 
 **🌟网络结构🌟**
 
-![image-20220912210057435](/Users/weiba/Library/Application Support/typora-user-images/image-20220912210057435.png)
+ [AlexNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/AlexNet_full.png) 
+
+### GoogleNet
+
+> 原文： [GoogLeNet.pdf](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/%E7%BB%8F%E5%85%B8CNN/GoogLeNet.pdf) 
+
+🌟**创新点🌟**
 
 
+
+🌟**摘要**🌟
+
+ [GoogleNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogleNet_ast.png) 
+
+**🌟网络结构🌟**
+
+ [GoogleNet_key.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogleNet_key.png) 
+
+ [GoogLeNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogLeNet_full.png) 
+
+### VGGNEt
+
+> 原文： [VGG.pdf](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/%E7%BB%8F%E5%85%B8CNN/VGG.pdf) 
+
+🌟**创新点🌟**
+
+
+
+🌟**摘要**🌟
+
+ [VGGNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/VGGNet_ast.png) 
+
+**🌟网络结构🌟**
+
+ [VGGNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/VGGNet_full.png) 
+
+### ResNet
+
+> 原文： [ResNet.pdf](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/%E7%BB%8F%E5%85%B8CNN/ResNet.pdf) 
+
+🌟**创新点🌟**
+
+
+
+🌟**摘要**🌟
+
+ [ResNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/ResNet_ast.png) 
+
+**🌟网络结构🌟**
+
+ [ResNet_key.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/ResNet_key.png) 
+
+ [ResNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/ResNet_full.png) 
 
 ## 语义分割- CNN
 
