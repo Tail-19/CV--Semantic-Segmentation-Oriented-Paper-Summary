@@ -8,7 +8,7 @@
 
 ### AlexNet
 
- [Alexnet.pdf](/Users/weiba/Documents/GitHub/CV--Semantic-Segmentation-Oriented-Paper-Summary/经典CNN/Alexnet.pdf) 
+ [Alexnet.pdf](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/经典CNN/Alexnet.pdf) 
 
 🌟**创新点🌟**
 
@@ -22,11 +22,13 @@
 
 **🌟摘要🌟**
 
-![image-20220912210851525](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/AlexNet_ast.png)
+![AlexNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/AlexNet_ast.png)
 
 **🌟网络结构🌟**
 
 ![image-20220912210057435](/Users/weiba/Library/Application Support/typora-user-images/image-20220912210057435.png)
+
+
 
 ## 语义分割- CNN
 
