@@ -22,7 +22,7 @@
 
 **🌟摘要🌟**
 
-![image-20220912210851525](/Users/weiba/Library/Application Support/typora-user-images/image-20220912210851525.png)
+![image-20220912210851525](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/AlexNet_ast.png)
 
 **🌟网络结构🌟**
 
