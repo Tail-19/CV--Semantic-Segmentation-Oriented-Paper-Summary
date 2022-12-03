@@ -24,4 +24,4 @@
 | 20   | SeMask                 | Potsdam                 |                 |      |
 | 22   | Mask2Former            | Potsdam                 | 76.8            | 87.8 |
 | 23   | BeiTv2                 | Potsdam                 |                 |      |
-| 23   | SegNeXt                | Potsdam                 | 80.01           | 90.9 |
+| 23   | SegNeXt                | Potsdam                 | 80.01(76.2)           | 90.9(88.4) |
