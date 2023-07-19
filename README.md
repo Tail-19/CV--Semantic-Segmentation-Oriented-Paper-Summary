@@ -4,6 +4,7 @@
 
 # 经典论文汇总
 
+- [Potsdam 上实验结果](#potsdam-上实验结果)
 - [经典论文汇总](#经典论文汇总)
   - [经典CNN](#经典cnn)
     - [AlexNet](#alexnet)
@@ -45,7 +46,7 @@
 > （但其实最重要的创新应该算是开启了CNN-卷积神经网络在CV领域的应用时代，如作者自己所说，AlexNet是当时最大的应用在CV上的CNN模型）
 
 **🌟摘要🌟**
-
+![image](images/classic/AlexNet_ast.png)
  ![AlexNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/AlexNet_ast.png) 
 
 **🌟网络结构🌟**
