@@ -46,12 +46,11 @@
 > （但其实最重要的创新应该算是开启了CNN-卷积神经网络在CV领域的应用时代，如作者自己所说，AlexNet是当时最大的应用在CV上的CNN模型）
 
 **🌟摘要🌟**
-![image](images/classic/AlexNet_ast.png)
- ![AlexNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/AlexNet_ast.png) 
+![AlexNet_ast.png](images/classic/AlexNet_ast.png)
 
 **🌟网络结构🌟**
 
-![AlexNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/AlexNet_full.png) 
+![AlexNet_full.png](images/classic/AlexNet_full.png) 
 
 ✏️
 
@@ -67,11 +66,11 @@
 
 🌟**摘要**🌟
 
- ![VGGNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/VGGNet_ast.png) 
+ ![VGGNet_ast.png](images/classic/VGGNet_ast.png) 
 
 **🌟网络结构🌟**
 
-![VGGNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/VGGNet_full.png) 
+![VGGNet_full.png](images/classic/VGGNet_full.png) 
 
 ✏️
 
@@ -91,13 +90,13 @@
 
 🌟**摘要**🌟
 
-![GoogleNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogleNet_ast.png) 
+![GoogleNet_ast.png](images/classic/GoogleNet_ast.png) 
 
 **🌟网络结构🌟**
 
-![GoogleNet_key.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogleNet_key.png) 
+![GoogleNet_key.png](images/classic/GoogleNet_key.png) 
 
-![GoogLeNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/GoogLeNet_full.png) 
+![GoogLeNet_full.png](images/classic/GoogLeNet_full.png) 
 
 ### ResNet
 
@@ -115,13 +114,13 @@
 
 🌟**摘要**🌟
 
- [ResNet_ast.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/ResNet_ast.png) 
+ [ResNet_ast.png](images/classic/ResNet_ast.png) 
 
 **🌟网络结构🌟**
 
-![ResNet_key.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/ResNet_key.png) 
+![ResNet_key.png](images/classic/ResNet_key.png) 
 
-![ResNet_full.png](https://github.com/Tail-19/CV--Semantic-Segmentation-Oriented-Paper-Summary/blob/main/images/classic/ResNet_full.png) 
+![ResNet_full.png](images/classic/ResNet_full.png) 
 
 ✏️
 
